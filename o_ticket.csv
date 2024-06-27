@@ -1,0 +1,5 @@
+﻿TT_type,category,count
+open,High Loss,300
+open,Packet Loss,200
+open,Link Down,50
+open,Site Down,10
